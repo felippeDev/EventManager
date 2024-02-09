@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Back", "Back", "{6A226633-A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E67B33CD-E4A3-499B-9E0C-6D6FE22008AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManager.API", "Back\src\EventManager.API\EventManager.API.csproj", "{BBBBD4FF-8087-4438-9262-7A1D4B59F0DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManager.API", "EventManager.API\EventManager.API.csproj", "{BBBBD4FF-8087-4438-9262-7A1D4B59F0DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
